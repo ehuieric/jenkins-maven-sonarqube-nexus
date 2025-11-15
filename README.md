@@ -40,7 +40,7 @@
     - Instance type: `t2.medium`
     - Security Group (Open): 8080 and 22 to 0.0.0.0/0 or Your-IP
     - Key pair: Select or create a new keypair
-    - User data (Copy the following user data): https://github.com/tdolivierth7/jenkins-maven-sonarqube-nexus/blob/main/tools/jenkins-maven-install.sh
+    - User data (Copy the following user data): https://github.com/tdolivierth7/jenkins-maven-sonarqube-nexus/blob/main/tools/jenkins-continuous-integration-ubuntu-user-data-setting.sh
     - Launch Instance
 
 ## Configure Nexus Repository
